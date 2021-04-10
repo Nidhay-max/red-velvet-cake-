@@ -1,5 +1,7 @@
 #INGREDIENTS#
+
 __For the Redvelvet cake__
+
 1. 2 and 2/3 cups (295 grams) cake flour (spooned & leveled)
 2. 1/4 cup (22 grams) natural unsweetened cocoa powder
 3. 1 teaspoon baking soda
