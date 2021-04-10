@@ -1,5 +1,7 @@
-#INSTRUCTIONS
+# INSTRUCTIONS #
+
 __To make the red velvet cake:__
+
 1. Preheat oven to 350°F (177°C). Spray two 9-inch cake pans well with nonstick cooking spray, line the bottoms of the pans with parchment paper, and set aside.
 2. In a large mixing bowl, whisk together the cake flour, cocoa powder, baking soda, and salt. Then sift the dry ingredients to remove any lumps of cocoa powder. Set aside.
 3. In the bowl of a stand mixer fitted with the paddle attachment, or in a large mixing bowl using an electric mixer, cream together the butter and sugar on medium speed for 4-5 minutes. Add the eggs and mix until fully combined, then mix in the oil, red food color, vanilla extract, and vinegar stopping to scrape down the sides of the bowl as needed.
