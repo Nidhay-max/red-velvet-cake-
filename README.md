@@ -4,4 +4,4 @@ __Receipe for Red Velvet Cake__
 
 [Ingredients](ingredients.md)
 
-[Receipe](receipe.md)
+[Receipe](recipe.md)
